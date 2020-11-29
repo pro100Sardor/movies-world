@@ -1,0 +1,22 @@
+.site-header {
+  background-image: url("../img/intro-img.jpg");
+  background-repeat: no-repeat;
+  background-position: right calc(50% - 100px);
+  background-size: 546px 1002px;
+  background-attachment: fixed;
+}
+
+.site-header__container {
+  width: 50%;
+  border-right: 100px solid #fff;
+  border-top: 0 solid transparent;
+  border-bottom: 1800px solid transparent;
+  // padding: {
+  //   top: 200px;
+  //   bottom: 200px;
+  //   left: 100px;
+  //   right: 100px;
+  // }
+  color: #fff;
+  background-color: #222;
+}
